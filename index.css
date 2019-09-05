@@ -6,6 +6,14 @@
 
 }
 
+.good-bad {
+  background-color: pink
+}
+
+.top-button {
+  text-align: center; 
+}
+
 #good-dog-filter {
   margin-top: 1vh;
   width: 35vw;
